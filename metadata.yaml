@@ -1,0 +1,28 @@
+_repo: Jacqueline-Volume-1_3968
+creator:
+  author:
+    agent_name: Bentzon, Th.
+    aliases:
+    - Blanc, Marie Thérèse de Soloms
+    - Bentzon, Thérèse
+    - Blanc, Marie Therese de Soloms
+    - Bentzon, Théodore
+    - Bentzan, Thérèse
+    birthdate: 1840
+    deathdate: 1907
+    gutenberg_agent_id: '1347'
+    url: http://www.gutenberg.org/2009/agents/1347
+description: ''
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+title: Jacqueline — Volume 1
+url: http://www.gutenberg.org/ebooks/3968
